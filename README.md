@@ -1,4 +1,8 @@
-# Spa
+# WebApp
+
+Angular CLI: 13.1.2
+Node: 12.22.8
+Package Manager: npm 6.14.15
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
